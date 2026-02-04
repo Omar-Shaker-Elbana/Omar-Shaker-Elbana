@@ -1,16 +1,18 @@
-## Hi there 👋
+# Omar — Software Engineer
 
-<!--
-**Omar-Shaker-Elbana/Omar-Shaker-Elbana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Backend-focused developer interested in AI and Cloud COmputing.
 
-Here are some ideas to get you started:
+## Tech Stack
+- Python, Java, SQL
+- Git & GitHub
+- Linux
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Working On
+- Backend fundamentals
+- SQL and databases
+- Preparing production-ready projects
+
+## Goals
+- Build real-world backend systems
+- Learn cloud technologies (AWS)
+- Contribute to open source in the future
