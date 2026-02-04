@@ -20,7 +20,6 @@ Looking to dive into AI and CLoud Computing.
 ### Backend & Web
 - Backend Development
 - Django
-- RESTful APIs
 - WebSockets
 - Web Scraping
 
@@ -31,9 +30,7 @@ Looking to dive into AI and CLoud Computing.
 
 ### Tools & Workflow
 - Git & GitHub
-- Linux
 - Microsoft Excel (basic)
-
 
 ## Currently Working On
 - A production-style online store backend
