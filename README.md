@@ -56,3 +56,12 @@ Looking to dive into AI and CLoud Computing.
 - Ship multiple backend projects with clean architecture
 - Deploy my first cloud-based system
 - Contribute to open source once my fundamentals are solid
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:youremail@example.com">
+    <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
