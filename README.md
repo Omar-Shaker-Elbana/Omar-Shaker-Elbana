@@ -58,10 +58,10 @@ Looking to dive into AI and CLoud Computing.
 - Contribute to open source once my fundamentals are solid
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN/">
+  <a href="https://www.linkedin.com/in/omar-shaker-5a6491297">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:omarshaker082@gmail.com">
     <img src="https://img.shields.io/badge/Email-555555?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
