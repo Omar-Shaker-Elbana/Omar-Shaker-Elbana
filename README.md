@@ -57,6 +57,7 @@ Looking to dive into AI and CLoud Computing.
 - Deploy my first cloud-based system
 - Contribute to open source once my fundamentals are solid
 
+## Contact
 <p align="left">
   <a href="https://www.linkedin.com/in/omar-shaker-5a6491297">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
