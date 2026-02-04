@@ -1,18 +1,51 @@
 # Omar — Software Engineer
 
-Backend-focused developer interested in AI and Cloud COmputing.
+I build systems the way I study math: structured, clean, and scalable.  
+Focused on backend development, data, and turning theory into real software.
+Looking to dive into AI and CLoud Computing.
 
-## Tech Stack
-- Python, Java, SQL
+## What I Care About
+- Writing clean, maintainable code
+- Understanding how systems work under the hood
+- Solving real problems, not just passing tutorials
+
+## Technical Skills
+
+### Programming & Computer Science
+- Python, Java
+- Data Structures & Algorithms
+- Object-Oriented Programming (OOP)
+- Problem Solving
+
+### Backend & Web
+- Backend Development
+- Django
+- RESTful APIs
+- WebSockets
+- Web Scraping
+
+### Databases & Data
+- SQL
+- Database Design
+- NumPy
+
+### Tools & Workflow
 - Git & GitHub
 - Linux
+- Microsoft Excel (basic)
+
 
 ## Currently Working On
-- Backend fundamentals
-- SQL and databases
-- Preparing production-ready projects
+- A production-style online store backend
+- Strengthening SQL and database design
+- Preparing projects that reflect real-world engineering
+
+## How I Think
+- Strong foundations beat flashy shortcuts
+- Small systems done well scale better than big messy ones
+- Consistency > motivation
 
 ## Goals
-- Build real-world backend systems
-- Learn cloud technologies (AWS)
-- Contribute to open source in the future
+- Ship multiple backend projects with clean architecture
+- Deploy my first cloud-based system
+- Contribute to open source once my fundamentals are solid
